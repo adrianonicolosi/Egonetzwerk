@@ -1,0 +1,464 @@
+id,name,type,production,year,sex,birth,ethnicity,frequency
+12AndHolding,12 and Holding,0,5,3,99,99,99,99
+13FrenchStreet,13 French Street ,0,5,3,99,99,99,99
+1stToDie,1st to Die,0,5,3,99,99,99,99
+6BelowMiracleOnTheMountain,6 Below Miracle on the Mountain,0,5,4,99,99,99,99
+AboveSuspicion,Above Suspicion,0,5,3,99,99,99,99
+AbsolutelyAnything,Absolutely Anything,0,5,4,99,99,99,99
+AceVenturaPetDetective,Ace Ventura: Pet Detective,0,5,2,99,99,99,99
+AChristmasToRemember,A Christmas to Remember,0,5,4,99,99,99,99
+ADogAndPonyShow,A Dog and Pony Show,0,5,4,99,99,99,99
+Aftermath,Aftermath,0,5,3,99,99,99,99
+AGreenStory,A Green Story,0,5,4,99,99,99,99
+AJobToKillFor,A Job to Kill For ,0,5,3,99,99,99,99
+AKillerWithin,A Killer Within,0,5,3,99,99,99,99
+AKissBeforeDying,A Kiss Before Dying,0,3,2,99,99,99,99
+AliceThroughTheLookingGlass,Alice Through the Looking Glass,0,5,2,99,99,99,99
+AllIWantForChristmas,All I Want For Christmas,0,5,4,99,99,99,99
+Alto,Alto,0,5,4,99,99,99,99
+AmericanCrime,American Crime,0,5,3,99,99,99,99
+AmongstFriends,Amongst Friends,0,5,2,99,99,99,99
+AMonthByTheLake,A Month by the Lake,0,1,2,99,99,99,99
+AMuppetsChristmasLettersToSanta,A Muppets Christmas: Letters to Santa,0,5,3,99,99,99,99
+AngelsCrest,Angels Crest,0,5,4,99,99,99,99
+AnnaLeeHeadcase,Anna Lee: Headcase,0,5,2,99,99,99,99
+APerfectMurder,A Perfect Murder,0,5,2,99,99,99,99
+Asteroid,Asteroid,0,5,2,99,99,99,99
+AtFirstSight,At First Sight,0,5,2,99,99,99,99
+AttackOfThe50FootCheerleader,Attack of the 50 Foot Cheerleader,0,5,4,99,99,99,99
+AustinPowersInGoldmember,Austin Powers in Goldmember,0,5,3,99,99,99,99
+BabarTheMovie,Babar: The Movie,0,5,1,99,99,99,99
+BabySecretOfTheLostLegend,Baby: Secret of the Lost Legend,0,5,1,99,99,99,99
+BackInTheDay,Back in the Day,0,5,4,99,99,99,99
+Barcelona,Barcelona,0,5,2,99,99,99,99
+BeautifulGirls,Beautiful Girls,0,1,2,99,99,99,99
+BeckinsaleKate,Kate Beckinsale,1,99,99,1,3,2,3
+BeCool,Be Cool,0,5,3,99,99,99,99
+BeforeISayGoodbye,Before I Say Goodbye,0,5,3,99,99,99,99
+BelAmi,Bel Ami,0,5,4,99,99,99,99
+BelleEpine,Belle epine ,0,5,4,99,99,99,99
+BeowulfAndGrendel,Beowulf & Grendel,0,5,3,99,99,99,99
+BetweenStrangers,Between Strangers,0,5,3,99,99,99,99
+BlackOasis,Black Oasis,0,5,3,99,99,99,99
+BladeRunner,Blade Runner,0,5,1,99,99,99,99
+BladeRunner2046,Blade Runner 2046,0,5,4,99,99,99,99
+BloodAndOrchids,Blood and Orchids,0,5,1,99,99,99,99
+BlueIce,Blue Ice ,0,5,2,99,99,99,99
+BlueInTheFace,Blue in the Face,0,1,2,99,99,99,99
+BlueMonkey,Blue Monkey,0,5,1,99,99,99,99
+Bolt,Bolt,0,5,2,99,99,99,99
+BoneTomahawk,Bone Tomahawk,0,5,4,99,99,99,99
+Boop,Boop,0,5,4,99,99,99,99
+Bounce,Bounce,0,1,3,99,99,99,99
+BrokedownPalace,Brokedown Palace,0,5,2,99,99,99,99
+BudAndDoyle,Bud & Doyle,0,5,2,99,99,99,99
+Burnt,Burnt,0,5,4,99,99,99,99
+CadillacMan,Cadillac Man,0,5,2,99,99,99,99
+Ceremony,Ceremony,0,5,4,99,99,99,99
+CharlieMantle,Charlie Mantle,0,5,4,99,99,99,99
+ChasingLiberty,Chasing Liberty,0,5,3,99,99,99,99
+ChelseaWalls,Chelsea Walls,0,5,3,99,99,99,99
+ChildrenFirst,Children First,0,5,2,99,99,99,99
+ChloeAndTheo,Chloe and Theo,0,5,4,99,99,99,99
+Chosen,Chosen,0,5,4,99,99,99,99
+ClassOf1999,Class of 1999,0,5,2,99,99,99,99
+Click,Click,0,5,3,99,99,99,99
+Complicity,Complicity,0,5,4,99,99,99,99
+Conan,Conan,0,5,4,99,99,99,99
+ConfidenceGame,Confidence Game,0,5,4,99,99,99,99
+Confidential,Confidential,0,5,1,99,99,99,99
+Contageon,Contageon,0,5,4,99,99,99,99
+Contraband,Contraband,0,3,4,99,99,99,99
+CopLand,Cop Land,0,1,2,99,99,99,99
+CountryStrong,Country Strong,0,5,4,99,99,99,99
+Cousins,Cousins,0,4,1,99,99,99,99
+DangerousLiaisons,Dangerous Liaisons,0,5,1,99,99,99,99
+Darling,Darling,0,5,4,99,99,99,99
+DawnOfTheDead,Dawn of the Dead,0,5,3,99,99,99,99
+DeadAwake,Dead Awake,0,5,4,99,99,99,99
+DeadlyRelations,Deadly Relations,0,5,2,99,99,99,99
+DeathProof,Death Proof,0,5,3,99,99,99,99
+DeLaGuerre,De la guerre ,0,5,3,99,99,99,99
+DermottsQuest,Dermott's Quest,0,5,3,99,99,99,99
+DesIllusions,Des illusions,0,5,3,99,99,99,99
+DesPoupeesEtDesAnges,Des poupees et des anges,0,5,3,99,99,99,99
+DevilInTheFlesh,Devil in the Flesh,0,5,2,99,99,99,99
+DoctorLollipop,Doctor Lollipop,0,5,4,99,99,99,99
+Domenica,Domenica,0,5,3,99,99,99,99
+DonPeyote,Don Peyote,0,5,4,99,99,99,99
+DontComeKnocking,Don't Come Knocking,0,5,3,99,99,99,99
+DownADarkHall,Down a Dark Hall,0,5,4,99,99,99,99
+DoYouBelieve,Do You Believe,0,5,4,99,99,99,99
+DrJekyllAndMsHyde,Dr Jekyll and Ms Hyde,0,5,2,99,99,99,99
+Duets,Duets,0,5,3,99,99,99,99
+Dune,Dune,0,5,1,99,99,99,99
+DylanThomas,Dylan Thomas,0,5,2,99,99,99,99
+ElizaGraves,Eliza Graves,0,5,4,99,99,99,99
+Elvis,Elvis,0,5,3,99,99,99,99
+EncinoMan,Encino Man,0,5,2,99,99,99,99
+EscapeRoom,Escape Room,0,5,4,99,99,99,99
+EvenCowgirlsGetTheBlues,Even Cowgirls Get the Blues,0,5,2,99,99,99,99
+EverybodysFine,Everybody's Fine,0,1,3,99,99,99,99
+EverythingToGain,Everything to Gain,0,5,2,99,99,99,99
+EvilHasAFace,Evil Has a Face,0,5,2,99,99,99,99
+ExceptionToTheRule,Exception to the Rule,0,5,2,99,99,99,99
+eXistenZ,eXistenZ,0,5,2,99,99,99,99
+Exotica,Exotica,0,1,2,99,99,99,99
+Exposed,Exposed,0,5,4,99,99,99,99
+Farming,Farming,0,5,4,99,99,99,99
+FatalInstinct,Fatal Instinct,0,5,2,99,99,99,99
+FavoriteDeadlySins,Favorite Deadly Sins,0,5,2,99,99,99,99
+FiftyDeadMenWalking,Fifty Dead Men Walking,0,5,3,99,99,99,99
+FinalAnalysis,Final Analysis,0,5,2,99,99,99,99
+FindingMrsClaus,Finding Mrs Claus,0,5,4,99,99,99,99
+FindMeGuilty,Find Me Guilty,0,5,3,99,99,99,99
+FireBirds,Fire Birds,0,5,2,99,99,99,99
+FireInCairo,Fire in Cairo,0,5,4,99,99,99,99
+FourTalesOfTwoCities,Four Tales of Two Cities,0,5,2,99,99,99,99
+FreeMoney,Free Money,0,5,2,99,99,99,99
+FriendsAndRomans,Friends and Romans,0,5,4,99,99,99,99
+Future38,Future38,0,5,4,99,99,99,99
+Gaffigan,Gaffigan,0,5,4,99,99,99,99
+Gattaca,Gattaca,0,5,2,99,99,99,99
+GekijobanFurandaasuNoInu,Gekijoban Furandaasu no inu,0,5,2,99,99,99,99
+GetOverIt,Get Over It,0,1,3,99,99,99,99
+GhostsNeverSleep,Ghosts Never Sleep ,0,5,3,99,99,99,99
+Gingerclown,Gingerclown,0,5,4,99,99,99,99
+GodsAndGenerals,Gods and Generals,0,5,3,99,99,99,99
+GoingAllTheWay,Going All the Way,0,5,2,99,99,99,99
+GrandCentral,Grand Central,0,5,4,99,99,99,99
+GreatExpectations,Great Expectations,0,5,2,99,99,99,99
+Grindhouse,Grindhouse,0,5,3,99,99,99,99
+Guinevere,Guinevere,0,1,2,99,99,99,99
+HandsOfAStranger,Hands of a Stranger,0,5,1,99,99,99,99
+HauntedEchoes,Haunted Echoes,0,5,3,99,99,99,99
+Headspace,Headspace,0,5,3,99,99,99,99
+HealedByGrace2,Healed by Grace 2,0,5,4,99,99,99,99
+HenryAndJune,Henry and June ,0,3,2,99,99,99,99
+Heresy,Heresy,0,5,4,99,99,99,99
+Highball,Highball,0,5,2,99,99,99,99
+HoldMeThrillMeKissMe,Hold Me Thrill Me Kiss Me,0,5,2,99,99,99,99
+HomeForTheHolidays,Home for the Holidays ,0,5,3,99,99,99,99
+Hook,Hook,0,5,2,99,99,99,99
+Hush,Hush,0,5,2,99,99,99,99
+HystericalBlindness,Hysterical Blindness,0,5,3,99,99,99,99
+Indiscretion,Indiscretion,0,5,4,99,99,99,99
+Infamous,Infamous,0,5,3,99,99,99,99
+InFidelity,In Fidelity,0,5,4,99,99,99,99
+InglouriousBasterds,Inglourious Basterds,0,2,3,99,99,99,99
+InternalAffairs,Internal Affairs,0,4,2,99,99,99,99
+InTheShadowOfTheCobra,In the Shadow of the Cobra,0,5,3,99,99,99,99
+InVino,In Vino,0,5,4,99,99,99,99
+IronMan1,Iron Man,0,4,3,99,99,99,99
+IronMan2,Iron Man 2,0,4,3,99,99,99,99
+JakesWomen,Jake's Women,0,5,2,99,99,99,99
+JaneAustenInManhattan,Jane Austen in Manhattan,0,5,1,99,99,99,99
+Jawbreaker,Jawbreaker,0,5,2,99,99,99,99
+Jenifer,Jenifer,0,5,3,99,99,99,99
+JenniferEight,Jennifer Eight,0,4,2,99,99,99,99
+JeremyFinkAndTheMeaningOfLife,Jeremy Fink and the Meaning of Life,0,5,4,99,99,99,99
+JerryAndTom,Jerry and Tom,0,5,2,99,99,99,99
+JesseStoneSeaChange,Jesse Stone Sea Change,0,5,3,99,99,99,99
+JoesSoMeanToJosephine,Joe's So Mean to Josephine,0,5,2,99,99,99,99
+JohannsGiftToChristmas,Johann's Gift to Christmas,0,5,2,99,99,99,99
+JohnAdams,John Adams,0,5,3,99,99,99,99
+JohnnyBeGood,Johnny Be Good,0,5,1,99,99,99,99
+JournalDuneFemmeDeChambre,Journal d'une femme de chambre,0,5,4,99,99,99,99
+JugFace,Jug Face,0,5,4,99,99,99,99
+JungleFever,JungleFever,0,3,2,99,99,99,99
+JusteLaFinDuMonde,Juste la fin du monde,0,5,4,99,99,99,99
+KillBillVol1,Kill Bill: Vol. 1,0,1,3,99,99,99,99
+KillingYard,Killing Yard,0,4,3,99,99,99,99
+KingOfTheJungle,King of the Jungle,0,5,3,99,99,99,99
+KissAndTell,Kiss & Tell,0,5,2,99,99,99,99
+KissDaddyGoodnight,Kiss Daddy Goodnight,0,5,1,99,99,99,99
+Kursk,Kursk,0,5,4,99,99,99,99
+LaBelleEtLaBete,La belle et la bête,0,5,4,99,99,99,99
+LaBellePersonne,La belle personne,0,5,3,99,99,99,99
+LanternHill,Lantern Hill,0,5,1,99,99,99,99
+LastNight,Last Night,0,5,2,99,99,99,99
+LaurelCanyon,Laurel Canyon,0,5,3,99,99,99,99
+LaVieDadele,La vie d'Adèle,0,5,4,99,99,99,99
+LeavesOfTheTree,Leaves of the Tree,0,5,4,99,99,99,99
+LenfantDenHaut,L'enfant d'en haut,0,5,4,99,99,99,99
+Leningrad,Leningrad,0,5,3,99,99,99,99
+LeRomanDeMaFemme,Le roman de ma femme,0,5,4,99,99,99,99
+LesAdieuxALaReine,Les adieux à la reine,0,5,4,99,99,99,99
+LesMiserables,Les Miserables,0,5,2,99,99,99,99
+LesVacancesDeClemence,Les Vacances de Clemence,0,5,3,99,99,99,99
+LewisAndClarkAndGeorge,Lewis & Clark & George,0,5,2,99,99,99,99
+LifeOnTheLedge,Life On The Ledge,0,5,3,99,99,99,99
+LikeDandelionDust,Like Dandelion Dust,0,5,3,99,99,99,99
+LisaPicardIsFamous,Lisa Picard Is Famous,0,5,3,99,99,99,99
+LittleCity,Little City,0,5,2,99,99,99,99
+LivingTheDream,Living the Dream,0,5,3,99,99,99,99
+LookAway,Look Away,0,5,4,99,99,99,99
+LostCatCorona,Lost Cat Corona,0,5,4,99,99,99,99
+Lourdes,Lourdes,0,5,3,99,99,99,99
+LoveAndFriendship,Love & Friendship,0,5,4,99,99,99,99
+LoveComeDown,Love Come Down,0,5,3,99,99,99,99
+LoveCrimes,Love Crimes,0,1,2,99,99,99,99
+LoveObject,Love Object,0,5,3,99,99,99,99
+Luck,Luck,0,5,3,99,99,99,99
+LuluOnTheBridge,Lulu on the Bridge,0,5,2,99,99,99,99
+Machete,Machete,0,5,4,99,99,99,99
+MadDogAndGlory,Mad Dog and Glory,0,3,2,99,99,99,99
+Malice,Malice,0,5,2,99,99,99,99
+MarilynMansonComaWhite,Marilyn Manson: Coma White,0,5,2,99,99,99,99
+MARRA,MARRA,0,5,4,99,99,99,99
+Marvelous,Marvelous,0,5,3,99,99,99,99
+McGowanRose,Rose McGowan,1,99,99,1,3,3,3
+MesCopines,Mes Copines ,0,5,3,99,99,99,99
+MidnightInParis,Midnight in Paris,0,5,4,99,99,99,99
+MightyAphrodite,Mighty Aphrodite,0,1,2,99,99,99,99
+Mimic,Mimic,0,1,2,99,99,99,99
+Mirage,Mirage,0,5,2,99,99,99,99
+MissionImpossibleGhostProtocol,Mission Impossible Ghost Protocol,0,4,4,99,99,99,99
+MisteriosDeLisboa,Misterios de Lisboa,0,5,4,99,99,99,99
+MockingbirdDontSing,Mockingbird don´t Sing,0,5,3,99,99,99,99
+ModelByDay,Model by Day,0,5,2,99,99,99,99
+MondoTaurobolium,Mondo Taurobolium,0,5,4,99,99,99,99
+Monkeybone,Monkeybone,0,5,3,99,99,99,99
+MoonlightAndValentino,Moonlight and Valentino,0,5,2,99,99,99,99
+Mortdecai,Mortdecai,0,5,4,99,99,99,99
+MotelBlue,Motel Blue,0,5,2,99,99,99,99
+Motherhood,Motherhood,0,5,3,99,99,99,99
+MothersAndDaughters,Mothers and Daughters,0,5,4,99,99,99,99
+Movie43,Movie 43,0,5,4,99,99,99,99
+MrJealousy,Mr Jealousy,0,5,2,99,99,99,99
+MrNobody,Mr. Nobody,0,5,3,99,99,99,99
+MrsParkerAndTheViciousCircle,Mrs. Parker and the Vicious Circle,0,1,2,99,99,99,99
+MrWonderful,Mr. Wonderful,0,5,2,99,99,99,99
+MrWoodcock,Mr. Woodcock,0,5,3,99,99,99,99
+MultipleSarcasms,Multiple Sarcasms,0,5,4,99,99,99,99
+MyLifeWithoutMe,My Life Without Me,0,5,3,99,99,99,99
+MyManIsALoser,My Man Is a Loser,0,5,4,99,99,99,99
+MySuperExGirlfriend,My Super Ex Girlfriend,0,5,3,99,99,99,99
+MyTripBackToTheDarkSide,My Trip back to the Dark Side,0,5,4,99,99,99,99
+MyZincBed,My Zinc Bed,0,5,3,99,99,99,99
+NewRoseHotel ,New Rose Hotel,0,5,2,99,99,99,99
+NewYorkUndercoverCop,New York Undercover Cop,0,5,2,99,99,99,99
+NicholasKirkwoodResistance,Nicholas Kirkwood: Resistance,0,5,4,99,99,99,99
+NightClass,Night Class,0,5,3,99,99,99,99
+NightHeat,Night Heat,0,5,1,99,99,99,99
+NipTuck,Nip/Tuck,0,5,3,99,99,99,99
+NoOneWouldTell,No One Would Tell,0,5,4,99,99,99,99
+NormaJeanAndMarilyn,Norma Jean and Marilyn,0,5,2,99,99,99,99
+NoSuchThing,No Such Thing,0,5,3,99,99,99,99
+NothingButTheTruth,Nothing But the Truth,0,5,3,99,99,99,99
+NoWayOut,No Way Out,0,5,1,99,99,99,99
+Nowhere,Nowhere,0,5,2,99,99,99,99
+NymphomaniacVol1,Nymphomaniac: Vol. 1,0,5,4,99,99,99,99
+NymphomaniacVol2,Nymphomaniac: Vol. 2,0,5,4,99,99,99,99
+OnceInTheLife,Once In The Life,0,5,3,99,99,99,99
+OnceUponACrime,Once Upon a Crime,0,5,2,99,99,99,99
+OutOfControl,Out of Control,0,5,2,99,99,99,99
+PaltrowGwyneth,Gwyneth Paltrow,1,99,99,1,3,7,3
+ParallelLives,Parallel Lives,0,5,2,99,99,99,99
+Parasomnia,Parasomnia,0,5,3,99,99,99,99
+PashmyDream,Pashmy Dreams,0,5,3,99,99,99,99
+PearlHarbor,Pearl Harbor,0,5,3,99,99,99,99
+PercyJacksonAndTheOlympiansTheLightningThief,Percy Jackson & the Olympians: The Lightning Thief,0,5,4,99,99,99,99
+PerfectSisters,Perfect Sisters,0,5,4,99,99,99,99
+PetitTailleur,Petit tailleur,0,5,4,99,99,99,99
+Phantoms,Phantoms,0,1,2,99,99,99,99
+PlanetTerror,Planet Terror,0,5,3,99,99,99,99
+PlayingForKeeps,Playing for Keeps,0,5,4,99,99,99,99
+PleinSud,Plein sud,0,5,3,99,99,99,99
+PoliceState,Police State,0,5,4,99,99,99,99
+PolleySarah,Sarah Polley,1,99,99,1,3,7,2
+PoorWhiteTrash,Poor White Trash,0,5,3,99,99,99,99
+Possession,Possession,0,5,3,99,99,99,99
+Prettykill,Prettykill,0,5,1,99,99,99,99
+Prime,Prime,0,5,3,99,99,99,99
+Proof,Proof,0,1,3,99,99,99,99
+PulpFiction,Pulp Fiction,0,1,2,99,99,99,99
+Quitters,Quitters,0,5,4,99,99,99,99
+QuizShow,Quiz Show,0,5,2,99,99,99,99
+Ramona,Ramona,0,5,1,99,99,99,99
+RandomEncounters,Random Encounters,0,5,4,99,99,99,99
+ReadyToRumble,Ready to Rumble,0,5,3,99,99,99,99
+ReservationRoad,Reservation Road,0,5,3,99,99,99,99
+ReversalOfFortune,Reversal of Fortune,0,5,2,99,99,99,99
+RoadToAvonlea,Road to Avonlea,0,5,2,99,99,99,99
+RobinAndBatman,Robin and Batman,0,5,2,99,99,99,99
+RobinHood,Robin Hood,0,3,4,99,99,99,99
+RomeoIsBleeding,Romeo Is Bleeding,0,5,2,99,99,99,99
+RomyAndMichelesHighSchoolReunion,Romy and Micheles High School Reunion,0,5,2,99,99,99,99
+RosesACredit,Roses a credit,0,5,4,99,99,99,99
+RosewoodLane,Rosewood Lane,0,5,4,99,99,99,99
+RunningWithScissors,Running with Scissors,0,5,3,99,99,99,99
+SagemillerMelissa,Melissa Sagemiller,1,99,99,1,3,7,2
+SaintLaurent,Saint Laurent ,0,5,4,99,99,99,99
+SamTheMan,Sam the Man,0,5,3,99,99,99,99
+SansLaisserDeTraces,Sans laisser de traces,0,5,4,99,99,99,99
+SciorraAnnabella,Annabella Sciorra,1,99,99,1,1,7,2
+Scream,Scream,0,5,2,99,99,99,99
+ScreenTwo,Screen Two,0,5,1,99,99,99,99
+SecretCutting,Secret Cutting,0,5,3,99,99,99,99
+Seed,Seed,0,5,2,99,99,99,99
+SemanaSanta,Semana Santa,0,5,3,99,99,99,99
+SendNoFlowers,Send No Flowers,0,5,4,99,99,99,99
+Serendipity,Serendipity,0,1,3,99,99,99,99
+SeydouxLea,Lea Seydoux,1,99,99,1,4,2,2
+ShakespeareInLove,Shakespeare in Love,0,1,2,99,99,99,99
+ShallowHal,Shallow Hal,0,5,3,99,99,99,99
+Shout,Shout,0,3,2,99,99,99,99
+Siblings,Siblings,0,5,3,99,99,99,99
+SketchArtist,Sketch Artist,0,5,2,99,99,99,99
+SkyCaptainAndTheWorldOfTomorrow,Sky Captain and the World of Tomorrow,0,4,3,99,99,99,99
+SleepingBeauties,Sleeping Beauties,0,5,2,99,99,99,99
+SlidingDoors,Sliding Doors,0,1,2,99,99,99,99
+SlingsAndArrows,Slings and Arrows,0,5,3,99,99,99,99
+Smitty,Smitty,0,5,4,99,99,99,99
+SnowAngels,Snow Angels,0,5,3,99,99,99,99
+SomewhereOnlyWeKnow,Somewhere Only We Know,0,5,4,99,99,99,99
+SororityBoys,Sorority Boys,0,5,3,99,99,99,99
+SorvinoMira,Mira Sorvino,1,99,99,1,2,7,3
+SoulSurvivors,Soul Survivors ,0,5,3,99,99,99,99
+Southie,Southie,0,5,2,99,99,99,99
+SpaceWarriors,Space Warriors,0,5,4,99,99,99,99
+SpecialDelivery,Special Delivery,0,5,2,99,99,99,99
+Spectre,Spectre,0,5,4,99,99,99,99
+SpiderManHomecoming,Spider-Man: Homecoming,0,5,4,99,99,99,99
+Splice,Splice,0,5,3,99,99,99,99
+StandingStill,Standing Still,0,5,3,99,99,99,99
+StraightUp,Straight Up,0,5,2,99,99,99,99
+StrangeHearts,Strange Hearts,0,5,3,99,99,99,99
+Stripes,Stripes,0,5,1,99,99,99,99
+Sugar2004,Sugar (2004),0,5,3,99,99,99,99
+SugarAndSpice,Sugar and Spice ,0,5,3,99,99,99,99
+SummerOfSam,Summer of Sam,0,5,2,99,99,99,99
+SweetAndLowdown,Sweet and Lowdown,0,5,2,99,99,99,99
+SweetNothing,Sweet Nothing,0,5,2,99,99,99,99
+Sylvia,Sylvia,0,5,3,99,99,99,99
+TakeAnotherLook,Take Another Look,0,5,2,99,99,99,99
+TalesOfErotica,Tales of Erotica,0,5,2,99,99,99,99
+Tape,Tape,0,5,3,99,99,99,99
+Tarantella,Tarantella,0,5,2,99,99,99,99
+TheAccidentalHusband,The Accidental Husband,0,5,3,99,99,99,99
+TheAddiction,The Addiction,0,5,2,99,99,99,99
+TheAdventuresOfBaronMunchausen,The Adventures of Baron Munchausen,0,5,1,99,99,99,99
+TheAmatiGirls,The Amati Girls,0,5,3,99,99,99,99
+TheAnniversaryParty,The Anniversary Party,0,5,3,99,99,99,99
+TheAvengers1998,The Avengers (1998),0,5,2,99,99,99,99
+TheAvengers2012,The Avengers (2012),0,4,4,99,99,99,99
+TheAviator2004,The Aviator (2004),0,1,3,99,99,99,99
+TheBigTown,The Big Town,0,5,1,99,99,99,99
+TheBlackDahlia,The Black Dahlia,0,3,3,99,99,99,99
+TheBlackDove,The Black Dove,0,5,4,99,99,99,99
+TheBoost,The Boost,0,5,1,99,99,99,99
+TheCagedPillows,The Caged Pillows,0,5,4,99,99,99,99
+TheClaim,The Claim,0,5,3,99,99,99,99
+TheClearing,The Clearing,0,5,3,99,99,99,99
+TheConIsOn,The Con Is On,0,5,4,99,99,99,99
+TheCure,The Cure,0,3,2,99,99,99,99
+TheDisappointmentsRoom,The Disappointments Room,0,5,4,99,99,99,99
+TheDoomGeneration,The Doom Generation,0,5,2,99,99,99,99
+TheDrop,The Drop ,0,5,3,99,99,99,99
+TheEvent,The Event,0,5,3,99,99,99,99
+TheFaceOfAnAngel,The Face of an Angel,0,5,4,99,99,99,99
+TheFinalCut,The Final Cut,0,5,3,99,99,99,99
+TheFuneral,The Funeral,0,5,2,99,99,99,99
+TheGarden,The Garden,0,5,3,99,99,99,99
+TheGoldenBowl,The Golden Bowl,0,1,3,99,99,99,99
+TheGoodNight,The Good Night,0,5,3,99,99,99,99
+TheGrandBudapestHotel,The Grand Budapest Hotel,0,5,4,99,99,99,99
+TheGreatGatsby,The Great Gatsby,0,5,3,99,99,99,99
+TheGreyZone,The Grey Zone,0,5,3,99,99,99,99
+TheGuardian,The Guardian,0,5,3,99,99,99,99
+TheHandThatRocksTheCradle,The Hand That Rocks the Cradle,0,5,2,99,99,99,99
+TheHangingGarden,The Hanging Garden,0,5,2,99,99,99,99
+TheHardWay,The Hard Way,0,3,2,99,99,99,99
+TheHiddenRoom,The Hidden Room,0,5,2,99,99,99,99
+TheHouseNextDoor,The House Next Door ,0,5,3,99,99,99,99
+TheHouseThatJackBuilt,The House That Jack Built,0,5,4,99,99,99,99
+TheInherited,The Inherited,0,5,4,99,99,99,99
+TheInnocentSleep,The Innocent Sleep,0,5,2,99,99,99,99
+TheInvader,The Invader,0,5,2,99,99,99,99
+TheJetsons,The Jetsons,0,5,4,99,99,99,99
+TheKingAndQueenOfMoonlightBay,The King and Queen of Moonlight Bay,0,5,3,99,99,99,99
+TheLastDaysOfDisco,The Last Days of Disco,0,5,2,99,99,99,99
+TheLastStop,The Last Stop,0,5,3,99,99,99,99
+TheLawOfEnclosures,The Law of Enclosures,0,5,3,99,99,99,99
+TheLifeBeforeHerEyes,The Life Before Her Eyes,0,5,3,99,99,99,99
+TheLifeBeforeThis,The Life Before This,0,5,2,99,99,99,99
+TheLobster,The Lobster ,0,5,4,99,99,99,99
+TheMaidsRoom,The Maids Room ,0,5,4,99,99,99,99
+TheManWhoCameBack,The Man Who Came Back,0,5,3,99,99,99,99
+TheMultiHyphenate,The Multi-Hyphenate,0,5,3,99,99,99,99
+TheNakedBrothersBandTheMovie,The Naked Brothers Band: The Movie,0,5,3,99,99,99,99
+TheNetworker,The Networker,0,5,4,99,99,99,99
+TheNightWeNeverMet,The Night We Never Met,0,1,2,99,99,99,99
+TheOnlyLivingBoyInNewYork,The Only Living Boy in New York,0,5,4,99,99,99,99
+ThePallbearer,The Pallbearer,0,1,2,99,99,99,99
+ThePastorsWife,The Pastor's Wife,0,5,4,99,99,99,99
+ThePlanetOfJuniorBrown,The Planet of Junior Brown,0,5,2,99,99,99,99
+ThePresence,The Presence,0,5,4,99,99,99,99
+TheProprietor,The Proprietor,0,5,2,99,99,99,99
+TheRedMapleLeaf,The Red Maple Leaf,0,5,4,99,99,99,99
+TheReplacementKillers,The Replacement Killers,0,5,2,99,99,99,99
+TheRepublic,The Republic,0,5,4,99,99,99,99
+TheRockfordFiles,The Rockford Files,0,5,4,99,99,99,99
+TheRoyalTenenbaums,The Royal Tenenbaums,0,5,3,99,99,99,99
+TheSantaCon,The Santa Con,0,5,4,99,99,99,99
+TheSecondGreatestStoryEverTold,The Second Greatest Story Ever Told,0,5,2,99,99,99,99
+TheSecretLifeOfWords,The Secret Life of Words,0,5,3,99,99,99,99
+TheSound,The Sound,0,5,4,99,99,99,99
+TheStuff,The Stuff,0,5,1,99,99,99,99
+TheSweetHereafter,The Sweet Hereafter,0,5,2,99,99,99,99
+TheTalentedMrRipley,The Talented Mr. Ripley,0,1,2,99,99,99,99
+TheTellTaleHeart,The Tell-Tale Heart,0,5,4,99,99,99,99
+TheTrialsOfCateMcCall,The Trials of Cate McCall,0,5,4,99,99,99,99
+TheTriumphOfLove,The Triumph of Love,0,5,3,99,99,99,99
+TheTroubleWithCali,The Trouble with Cali,0,5,4,99,99,99,99
+TheTruthAboutCatsAndDogs,The Truth About Cats and Dogs,0,5,2,99,99,99,99
+TheWeightOfBloodAndBones,The Weight of Blood and Bones,0,5,4,99,99,99,99
+TheWeightOfWater,The Weight of Water,0,5,3,99,99,99,99
+ThirdManOut,Third Man Out,0,5,3,99,99,99,99
+ThisMightBeGood,This Might Be Good,0,5,3,99,99,99,99
+ThreatOfExposure,Threat of Exposure,0,5,3,99,99,99,99
+ThurmanUma,Uma Thurman,1,99,99,1,2,7,3
+TimeDoesntStandStill,Time Doesnt Stand Still,0,5,4,99,99,99,99
+Tiptoes,Tiptoes,0,5,3,99,99,99,99
+TooTiredToDie,Too Tired to Die,0,5,2,99,99,99,99
+TotalRecall,Total Recall,0,5,4,99,99,99,99
+TradeOfInnocents,Trade of Innocents,0,5,4,99,99,99,99
+Trigger,Trigger,0,5,4,99,99,99,99
+Trooper,Trooper,0,5,4,99,99,99,99
+TrueColors,True Colors,0,5,2,99,99,99,99
+TrueLove,True Love,0,5,1,99,99,99,99
+TwoLovers,Two Lovers,0,5,3,99,99,99,99
+UltimateSpiderMan,Ultimate Spider-Man,0,5,4,99,99,99,99
+Underworld2003,Underworld (2003),0,5,3,99,99,99,99
+Underworld5BloodWars,Underworld 5: Blood Wars,0,5,4,99,99,99,99
+UnderworldAwakening,Underworld Awakening,0,5,4,99,99,99,99
+UnderworldEvolution,Underworld: Evolution,0,5,3,99,99,99,99
+UnderworldRiseOfTheLycans,Underworld: Rise of the Lycans,0,5,3,99,99,99,99
+UneVieilleMaitresse,Une Vieille Maîtresse,0,5,3,99,99,99,99
+UnionSquare,Union Square,0,5,4,99,99,99,99
+UntilTheNight,Until the Night ,0,5,3,99,99,99,99
+Vacancy,Vacancy,0,5,3,99,99,99,99
+Vacuums,Vacuums,0,5,3,99,99,99,99
+VanHelsing,Van Helsing,0,3,3,99,99,99,99
+Vatel,Vatel,0,5,3,99,99,99,99
+Videola,Videola,0,5,4,99,99,99,99
+WallStreet,Wall Street,0,5,1,99,99,99,99
+WaterlilyJaguar,Waterlily Jaguar,0,5,4,99,99,99,99
+WelcomeToHollywood,Welcome to Hollywood,0,5,2,99,99,99,99
+WhatAboutJoan,What About Joan,0,5,3,99,99,99,99
+WhatDreamsMayCome,What Dreams May Come,0,5,2,99,99,99,99
+WhereTheHeartIs,Where the Heart Is,0,5,3,99,99,99,99
+WhispersInTheDark,Whispers in the Dark,0,4,2,99,99,99,99
+WhiteLies,White Lies,0,5,2,99,99,99,99
+Whiteout,Whiteout,0,5,3,99,99,99,99
+WingedCreatures,Winged Creatures,0,5,3,99,99,99,99
+WiseGirls,Wise Girls,0,5,3,99,99,99,99
+WishinAndHopin,Wishin' and Hopin',0,5,4,99,99,99,99
+WitnessToTheExecution,Witness to the Execution,0,5,2,99,99,99,99
+WomansWomb,Woman's Womb,0,5,4,99,99,99,99
+WomenInChains,Women in Chains,0,5,4,99,99,99,99
+WomenOnTheInside,Women on the Inside,0,5,2,99,99,99,99
+YoungDoctorsInLove,Young Doctors in Love,0,5,1,99,99,99,99
+YoungSean,Sean Young,1,99,99,1,1,7,2
+Zoe,Zoe,0,5,4,99,99,99,99
